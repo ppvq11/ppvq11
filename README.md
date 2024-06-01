@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-#Muna Alhajj
+## Muna Alhajj
+
 IT| FullStack developer| Technical management| Problem solving| Data analyst.
 
 <summary>About</summary>
