@@ -14,8 +14,8 @@ I have the ability to program in different languages, Data analysis, operating o
 
 ## **TECHNICAL AND SOFT SKILLS.**
 
-+Programming Language: Swift, HTML/CSS, SQL, JavaScript., Python, C#
-+Database: MySQL, Power Bi , excel
-+Tools: Microsoft office, VS Code, XCode, Cisco Packet tracer, Firebase.
-+Soft skills: Leadership, Problem solving, Teamwork, Self-learning and developing, Highly Discipline, Analytical skills, Communication and Presentation skills, Critical thinking, technical skills.
+* Programming Language: Swift, HTML/CSS, SQL, JavaScript., Python, C#
+* Database: MySQL, Power Bi , excel
+* Tools: Microsoft office, VS Code, XCode, Cisco Packet tracer, Firebase.
+* Soft skills: Leadership, Problem solving, Teamwork, Self-learning and developing, Highly Discipline, Analytical skills, Communication and Presentation skills, Critical thinking, technical skills.
 
